@@ -1,0 +1,17 @@
+{
+  "name": "44-grupe-parduotuve",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "ZygimantasL",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
